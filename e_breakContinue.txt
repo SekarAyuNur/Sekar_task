@@ -1,0 +1,2 @@
+Break = untuk menghentikan sebuah perulangan (while, d0-while, for)
+Continue = untuk meloncati sebuah perulangan
